@@ -1,0 +1,7 @@
+www
+advanced
+shop
+mail
+financeiro
+admin
+mysql
